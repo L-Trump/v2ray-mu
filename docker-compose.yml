@@ -1,7 +1,6 @@
 version: "3"
 
 services:
-
   v2ray-mu:
     image: orvice/v2ray-mu
     container_name: v2ray_mu
